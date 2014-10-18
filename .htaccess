@@ -1,0 +1,5 @@
+AuthUserFile /var/www/sync/Filemanager/.htpasswd
+AuthType Basic
+AuthName "My Files"
+Require valid-user
+Require dungnv
